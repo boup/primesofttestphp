@@ -1,0 +1,391 @@
+#pied_de_page
+{
+	position:absolute;
+	width:600px;
+	height:400px;
+	top:600px;
+}	
+
+
+
+#b1
+{
+	 background-image:url('images\startup.jpg');
+	 /* background-color:RGB(248,248,248);//*/
+}
+
+
+
+
+
+.bande
+{
+	
+	height:55px;
+	left:1px;
+	top: 10px;
+	background-color:#336896;
+	
+}
+
+}
+.bande a
+{
+	color:white;
+	text-decoration:none;
+}
+
+#d4
+{
+	background-image:url("C:\wamp\www\dossier_optiware\images\logo_optiware.png");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#formulaire1
+{
+	position:absolute;
+	width:500px;
+	height:400px;
+	top:70px;
+}
+#titre1
+{
+	position:absolute;
+	width:600px;
+	height:400px;
+	left:550px;
+	top:300px;
+}
+#liste1
+{
+	position:absolute;
+	width:600px;
+	height:400px;
+	left:550px;
+	top:400px;
+	overflow:auto;
+}
+#recherche1
+{
+	position:absolute;
+	width:600px;
+	height:100px;
+	left:550px;
+	top:30px;
+}
+#formulaire2
+{
+	position:absolute;
+	width:500px;
+	height:400px;
+	top:70px;
+}
+#titre2
+{
+	position:absolute;
+	width:600px;
+	height:400px;
+	left:550px;
+	top:300px;
+}
+#liste2
+{
+	position:absolute;
+	width:600px;
+	height:400px;
+	left:550px;
+	top:400px;
+	overflow:auto;
+}
+#recherche2
+{
+	position:absolute;
+	width:600px;
+	height:100px;
+	left:550px;
+	top:30px;
+}
+#formulaire3
+{
+	position:absolute;
+	width:500px;
+	height:400px;
+	top:70px;
+}
+#titre3
+{
+	position:absolute;
+	width:600px;
+	height:400px;
+	left:550px;
+	top:300px;
+}
+#liste3
+{
+	position:absolute;
+	width:600px;
+	height:400px;
+	left:550px;
+	top:400px;
+	overflow:auto;
+}
+#recherche3
+{
+	position:absolute;
+	width:600px;
+	height:100px;
+	left:550px;
+	top:30px;
+}
+#formulaire4
+{
+	position:absolute;
+	width:500px;
+	height:50px;
+	top:70px;
+}
+#titre4
+{
+	position:absolute;
+	width:600px;
+	height:400px;
+	left:550px;
+	top:300px;
+}
+#liste4
+{
+	position:absolute;
+	width:400px;
+	height:300px;
+	left:550px;
+	top:400px;
+	overflow:auto;
+}
+#recherche4
+{
+	position:absolute;
+	width:300px;
+	height:100px;
+	right:550px;
+	top:30px;
+}
+#formulaire5
+{
+	position:absolute;
+	width:500px;
+	height:400px;
+	top:70px;
+}
+#titre5
+{
+	position:absolute;
+	width:600px;
+	height:400px;
+	left:550px;
+	top:300px;
+}
+#liste5
+{
+	position:absolute;
+	width:600px;
+	height:400px;
+	left:550px;
+	top:400px;
+	overflow:auto;
+}
+#recherche5
+{
+	position:absolute;
+	width:600px;
+	height:100px;
+	left:550px;
+	top:30px;
+}
+
+.copyright{
+	width:842px;
+	height:10px;
+	position:absolute;
+	left: 71px;
+	top: 1300px;
+}
+#di1 
+{
+	/*border:solid;*/
+	height:92em;
+	background-color:RGB(248,248,248);
+	background-color:#336896;
+	
+}
+
+#di2{
+	/*border:solid;*/
+	height:40em;
+	background-color:white;
+}
+#zal{
+	/*border:solid;*/
+	margin-top:40px;
+}
+#sect{
+	/*border:solid;*/
+	height:300px;
+	
+}
+
+#pa
+{
+	height:300px;
+	
+}
+body #formulaire
+{
+	position:absolute;
+	width:500px;
+	height:400px;
+	top:70px;
+}
+body  #titre
+{
+	position:absolute;
+	width:600px;
+	height:400px;
+	left:550px;
+	top:300px;
+}
+body  #liste
+{
+	position:absolute;
+	width:600px;
+	height:400px;
+	left:550px;
+	top:400px;
+	overflow:auto;
+}
+body #recherche
+{
+	position:absolute;
+	width:600px;
+	height:100px;
+	left:550px;
+	top:30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#formulaire
+{
+	position:absolute;
+	width:500px;
+	height:400px;
+	top:70px;
+}
+#titre
+{
+	position:absolute;
+	width:600px;
+	height:400px;
+	left:550px;
+	top:300px;
+}
+#liste
+{
+	position:absolute;
+	width:600px;
+	height:400px;
+	left:550px;
+	top:400px;
+	overflow:auto;
+}
+#recherche
+{
+	position:absolute;
+	width:600px;
+	height:100px;
+	left:550px;
+	top:30px;
+}
+
+
+
+
+
+
+
+
+
+#id3{
+	align:center;
+}
+
+#formulaire
+{
+	position:absolute;
+	width:500px;
+	height:400px;
+	top:70px;
+}
+#titre
+{
+	position:absolute;
+	width:600px;
+	height:400px;
+	left:550px;
+	top:300px;
+}
+#liste
+{
+	position:absolute;
+	width:600px;
+	height:400px;
+	left:550px;
+	top:400px;
+	overflow:auto;
+}
+#recherche
+{
+	position:absolute;
+	width:600px;
+	height:100px;
+	left:550px;
+	top:30px;
+}

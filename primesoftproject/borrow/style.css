@@ -1,0 +1,79 @@
+
+.body{
+	background-image:url('images\startup.jpg');
+}
+#pied_de_page
+{
+	position:absolute;
+	width:600px;
+	height:400px;
+	top:600px;
+}	
+
+.formulaire
+{
+	position:absolute;
+	width:500px;
+	height:400px;
+	top:200px;
+}
+.titre
+{
+	position:absolute;
+	width:600px;
+	height:400px;
+	left:550px;
+	top:500px;
+}
+.liste
+{
+	position:absolute;
+	width:600px;
+	height:400px;
+	left:550px;
+	top:350px;
+	overflow:auto;
+}
+.recherche
+{
+	position:absolute;
+	width:600px;
+	height:100px;
+	left:550px;
+	top:150px;
+}
+
+.copyright{
+	width:842px;
+	height:10px;
+	position:absolute;
+	left: 71px;
+	top: 1300px;
+}
+
+#d1
+{
+	position:absolute;
+	width:1380px;
+	background-color:ping;
+	width:1500px;
+	
+}
+.liste5
+{
+	position:absolute;
+	width:600px;
+	height:400px;
+	left:550px;
+	top:350px;
+	overflow:auto;
+}
+.recherche4
+{
+	position:absolute;
+	width:600px;
+	height:100px;
+	left:550px;
+	top:150px;
+}
+

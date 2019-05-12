@@ -1,0 +1,33 @@
+#formulaire
+{
+	position:absolute;
+	width:500px;
+	height:400px;
+	top:70px;
+}
+#titre
+{
+	position:absolute;
+	width:600px;
+	height:400px;
+	left:550px;
+	top:300px;
+}
+#liste
+{
+	position:absolute;
+	width:600px;
+	height:400px;
+	left:550px;
+	top:400px;
+	overflow:auto;
+}
+#recherche
+{
+	position:absolute;
+	width:600px;
+	height:100px;
+	left:550px;
+	top:30px;
+}
+
